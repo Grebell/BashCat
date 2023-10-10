@@ -13,3 +13,5 @@ Your new best friend awaits!
    ▀▄▄▀   ▀▄▄▀   
         │        
   ≥≡≡ └─┴─┘ ≡≡≤  
+
+(warning: running from SSH or WSL will likely break all animations. Running it natively on a Linux machine or running on gitbash is highly recommended.)
