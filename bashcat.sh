@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+clear
 while :
 do
 echo "  ▄           ▄  "
